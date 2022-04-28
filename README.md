@@ -4,4 +4,4 @@
 <p>Cpp-MPI: -np 4
 
 
-<h4> -MPI_Send and MPI_Recv [MpiBegin11.cpp](~/blob/master/codes/MpiBegin11.cpp)</h4>
+<h4> -MPI_Send and MPI_Recv [MpiBegin11.cpp](https://github.com/AxelrodAdil/MPI-java-cpp/blob/master/codes/MpiBegin11.cpp)</h4>
